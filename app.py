@@ -179,8 +179,7 @@ if analyze_button:
             size=poster_size,
             grain_strength=grain_strength,
             vignette_strength=vignette_strength,
-            glow_radius=glow_radius,
-            glow_alpha=glow_alpha,
+    
         )
         st.image(mood_poster, caption="Generated Mood Poster", use_column_width=True)
 
