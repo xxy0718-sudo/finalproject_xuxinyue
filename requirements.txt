@@ -1,5 +1,7 @@
 streamlit
-pillow
 requests
+pillow
 pandas
+numpy
 nltk
+
